@@ -6,8 +6,10 @@ https://youtu.be/JEVYvdY95l0
 
 WHAT HAVE KNOWN SO FAR
 
-Open sorce kernel driver work out of box with i2c auto-rotation sensor since Ubuntu Gnome 16.04, Gnome 3.18, kernel 4.4.0-31. 
+Open sorce kernel driver work out of box with i2c auto-rotation sensor since Ubuntu Gnome 16.04, Gnome 3.18, kernel 4.4.0-31 
+
 https://youtu.be/pgj5JuTJrzw
+
 Alexandre Daoud has successfully made kext for some touch device, so rotation sensor is easier to achieve  
 https://github.com/alexandred/VoodooI2C
 
