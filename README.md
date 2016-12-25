@@ -18,6 +18,7 @@ Initial people interested:
 sonvirgo is doing testing on real device
 
 cydia2020 is doing IoKit portion of the kext
+https://youtu.be/oC9C5TAV_5c
 
 wafflejock is linux side advisor 
 
