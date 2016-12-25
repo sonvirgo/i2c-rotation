@@ -14,8 +14,11 @@ Alexandre Daoud has successfully made kext for some touch device, so rotation se
 https://github.com/alexandred/VoodooI2C
 
 Initial people interested:
-sonvirgo
-cydia2020
-wafflejock
+
+sonvirgo is doing testing on real device
+
+cydia2020 is doing IoKit portion of the kext
+
+wafflejock is linux side advisor 
 
 All kind of joinning are welcome!
