@@ -16,6 +16,10 @@ https://github.com/alexandred/VoodooI2C
 Similar project has relesaed their solution
 https://github.com/martin-ueding/thinkpad-scripts
 
+https://aaporantalainen.wordpress.com/2011/03/08/kayttojarjestelma-ilman-seinia/
+
+https://github.com/changty/lenovo-rotate
+
 Initial people interested:
 
 sonvirgo is doing testing on real device and doing intergrating fb-rotate script to macOS
