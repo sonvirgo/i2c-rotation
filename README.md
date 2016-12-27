@@ -13,9 +13,12 @@ https://youtu.be/pgj5JuTJrzw
 Alexandre Daoud has successfully made kext for some touch device, so rotation sensor is easier to achieve  
 https://github.com/alexandred/VoodooI2C
 
+Similar project has relesaed their solution
+https://github.com/martin-ueding/thinkpad-scripts
+
 Initial people interested:
 
-sonvirgo is doing testing on real device
+sonvirgo is doing testing on real device and doing intergrating fb-rotate script to macOS
 
 cydia2020 is doing IoKit portion of the kext
 https://youtu.be/oC9C5TAV_5c
@@ -23,3 +26,16 @@ https://youtu.be/oC9C5TAV_5c
 wafflejock is linux side advisor 
 
 All kind of joinning are welcome!
+
+TO DO LIST
+
+Grab the source code from linux source, may be kernel module
+
+Port the source to macOS and chainload in macOS kext (kernel space driver)
+
+Interprete hardware event to fb-rotation script
+
+Tesing
+
+Done
+
