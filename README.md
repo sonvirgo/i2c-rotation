@@ -16,6 +16,8 @@ https://github.com/alexandred/VoodooI2C
 Similar project has relesaed their solution
 https://github.com/martin-ueding/thinkpad-scripts
 
+https://github.com/residuum/Acer-Aspire-1825PTZ-Rotation
+
 https://aaporantalainen.wordpress.com/2011/03/08/kayttojarjestelma-ilman-seinia/
 
 https://github.com/changty/lenovo-rotate
