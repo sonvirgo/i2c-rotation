@@ -43,3 +43,4 @@ Tesing
 
 Done
 
+This is like extracurricular project, so no milestone, no schedule, no outcome, not in any hurry and no pressure on anyone lol
